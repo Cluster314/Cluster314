@@ -17,7 +17,7 @@ Im Pround At Myself For Learnig Theese Languages:
 
 ## (Bonus) How I Learned Math
 I Know A lot of Math, Like My Mom, Who Was A Gold Metalist In It. Now Lets Talk About The Story: At First, I didn't Know A lot of Math. I Learned Every Thing Up to My Grade. I Got Bored, I Started To Lean Above My Grade! I Know:
-* Pythagorem Therum
+* The Pythagorem Therum
 * Slope, Y-Intercept
 * Radians
 * How To Calculate Areas For Tringles, Circles, And Squares
