@@ -16,7 +16,7 @@ Im Pround At Myself For Learnig Theese Languages:
 * JS
 
 ## (Bonus) How I Learned Math
-I Know A lot of Math, Like My Mom, Who Was A Gold Metalist In It. Now Lets Talk About The Story: At First, I didn't Know A lot of Math. I Learned Every Thing Up to My Grade. I Got Bored, I Started To Lean Above My Grade! I Know:
+I Know A lot of Math, Like My Mom, Who Was A Gold Metalist In It. Now Lets Talk About The Story: At First, I didn't Know A lot of Math. I Learned Every Thing Up to My Grade. I Got Bored, I Started To Learn Above My Grade! I Know:
 * The Pythagorem Therum
 * Slope, Y-Intercept
 * Radians
