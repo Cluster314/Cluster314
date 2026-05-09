@@ -10,8 +10,10 @@ I was born at `9/25/2015`.
 My fav color is this color: <p style="color: #40BFFF; font-size: 20px;">▣ `#40BFFF` or `rgb(64,191,255)`<p>
 
 also here is some math cus i like math:
+
 $$\text{Euler's Identity (Really Cool)}$$
 $$e^{i\pi} + 1 = 0$$
+
 And here is some coding cus i like coding:
 ```python
 # Python Fibbonacci Sequence Function
