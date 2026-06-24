@@ -7,7 +7,7 @@ Hi, My name is Abdulrahman Mohammed, I'm a beginner coder. these are the languag
 
 I was born at `9/25/2015`.
 
-My fav color is this color: <p style="color: #40BFFF; font-size: 20px;">▣ `#40BFFF` or `rgb(64,191,255)`<p>
+My fav color is `#40BFFF` or `rgb(64,191,255)`<p>
 
 also here is some math cus i like math:
 
