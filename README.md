@@ -22,5 +22,6 @@ fib = lambda x: fib(x-1) + fib(x-2) if x > 2 else 1
 So, I Guess That's All, Bye!
 
 ### LAST UPDATED: 3/22/2026
-# YOU GOT RICKOLLED!
+# Cool Stuff
 <img width="498" height="498" alt="RickrollNeverGonnaGiveYouUpGIF (2)" src="https://github.com/user-attachments/assets/bf7ef717-dca5-4d70-9e79-0db2046aed6d" />
+U GOT RICKROLLED!
