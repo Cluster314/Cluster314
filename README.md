@@ -32,6 +32,7 @@ fib = lambda x: fib(x-1) + fib(x-2) if x > 2 else 1
 So, I Guess That's All, Bye!
       
 # Cool Stuff 
-![Rickroll](rickroll.gif)
+<img width="306" height="254" alt="RickAstleyGIF" src="https://github.com/user-attachments/assets/0a0c588b-165d-4bfb-a1b3-fc48a94da984" />
+
 
 YOU GOT RICKROLLED!
