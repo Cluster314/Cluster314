@@ -1,28 +1,37 @@
 # Abdulrahman Mohammed
-Hi, My name is Abdulrahman Mohammed, I'm a beginner coder. these are the languages i know:
+Hi, my name is Abdulrahman Mohammed.[]{u can call me Cluster} I'm a beginner coder. These are the languages I know:
 1. Python
 2. HTML
 3. CSS
 4. JS
 
-I was born at `9/25/2015`.
+# Links
+- [Digital Clock](/Digital-Clock)
+- [Quran App](/quran-app)
+- [GD Wave](/GD-Wave)
+- [QR Code Generator](/QR-Code-Generator)
+- [My GitHub Profile](https://github.com/Cluster314)
 
-My fav color is `#40BFFF` or `rgb(64,191,255)`<p>
+# About Me
+I was born on `9/25/2015`.
+    
+My fav color is `#40BFFF` or `rgb(64,191,255)`
 
-also here is some math cus i like math:
-
+# MD Tests
+Here is some math cus I like math:
+    
 $$\text{Euler's Identity (Really Cool)}$$
 $$e^{i\pi} + 1 = 0$$
-
-And here is some coding cus i like coding:
+    
+And here is some coding cus I like coding:
 ```python
-# Python Fibbonacci Sequence Function
+# Python Fibonacci Sequence Function
 fib = lambda x: fib(x-1) + fib(x-2) if x > 2 else 1
 ``` 
+    
 So, I Guess That's All, Bye!
+      
+# Cool Stuff 
+![Rickroll](rickroll.gif)
 
-### LAST UPDATED: 3/22/2026
-# Cool Stuff
-<img width="498" height="498" alt="RickrollNeverGonnaGiveYouUpGIF (2)" src="https://github.com/user-attachments/assets/bf7ef717-dca5-4d70-9e79-0db2046aed6d" />
-
-U GOT RICKROLLED!
+YOU GOT RICKROLLED!
